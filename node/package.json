@@ -1,0 +1,21 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jayshree",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^1.6.5",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mysql": "^2.15.0",
+    "path": "^0.12.7",
+    "routes": "^2.1.0",
+    "serve-favicon": "^2.4.5"
+  }
+}
